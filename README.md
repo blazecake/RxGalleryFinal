@@ -46,7 +46,7 @@
 ## 使用
 ### 下载或添加依赖
 
-    compile 'cn.finalteam.rxgalleryfinal:library:1.0.9'
+    com.github.blazecake:RxGalleryFinal:v1.1.3
     compile 'com.android.support:recyclerview-v7:24.2.0'
     compile 'com.android.support:appcompat-v7:24.2.0'
 
