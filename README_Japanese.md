@@ -48,7 +48,7 @@
 ## 使用
 ### をダウンロードするか、依存関係を追加
 
-    compile 'cn.finalteam.rxgalleryfinal:library:1.1.2'
+    com.github.blazecake:RxGalleryFinal:v1.1.3
     compile 'com.android.support:recyclerview-v7:24.2.0'
     compile 'com.android.support:appcompat-v7:24.2.0'
 
